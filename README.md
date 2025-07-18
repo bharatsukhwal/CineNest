@@ -18,3 +18,4 @@ Key Features:
 
 Ideal Use Case:
 This web part is perfect for creating a movie showcase, internal video library, entertainment dashboard, or media gallery within an intranet portal.
+<img width="1455" height="552" alt="image" src="https://github.com/user-attachments/assets/ae4b6769-9470-4c6d-8371-84007ab9bf44" />
