@@ -1,0 +1,24 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "CineNest",
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "MovieLibrary",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "cine-nest",
+    "libraryId": "6d517714-37a6-4bcd-b906-d267cdb6d396",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionShortDescription": "CineNest description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}
